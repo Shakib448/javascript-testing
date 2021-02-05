@@ -1,3 +1,3 @@
-export const substract =(a, b) => {
-    return a + b
-}
+export const subsTract = (a, b) => {
+  return a + b;
+};

@@ -1,3 +1,3 @@
-export const cloneArray =(array) => {
-    return [...array]
-}
+export const cloneArray = (array) => {
+  return [...array];
+};
