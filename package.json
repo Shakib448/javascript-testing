@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Shakib448/javascript-testing/issues"
   },
-  "homepage": "https://github.com/Shakib448/javascript-testing#readme"
+  "homepage": "https://github.com/Shakib448/javascript-testing#readme",
+  "devDependencies": {
+    "jest": "^26.6.3",
+  }
 }
