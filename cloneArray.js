@@ -1,3 +1,5 @@
-export const cloneArray = (array) => {
+const cloneArray = (array) => {
   return [...array];
 };
+
+module.exports = cloneArray;

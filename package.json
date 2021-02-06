@@ -2,10 +2,10 @@
   "name": "javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "cloneArray.js",
+  "main": "__test__",
   "type": "module",
   "scripts": {
-    "test": "nodemon jest"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
