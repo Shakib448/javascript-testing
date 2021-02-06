@@ -1,3 +1,5 @@
-export const subsTract = (a, b) => {
-  return a + b;
+const subsTract = (a, b) => {
+  return a - b;
 };
+
+module.exports = subsTract;
