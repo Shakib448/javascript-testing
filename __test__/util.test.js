@@ -7,5 +7,5 @@ test("SHould output name and age", () => {
 
 test("Should generate a valid text output", () => {
   const text = checkAndGenerate("Max", 29);
-  expect(text).toBe("Max (29 years old)");
+  expect(text).toBe("Max (2 years old)");
 });
