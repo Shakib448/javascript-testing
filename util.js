@@ -24,3 +24,12 @@ exports.validateInput = (text, notEmpty, isNumber) => {
   }
   return true;
 };
+
+exports.checkAndGenerate = (name, age) => {
+  if (
+    !validateInput(name.value, true, false) ||
+    !validateInput(age.value, false, true)
+  ) {
+    return false;
+  }
+};
